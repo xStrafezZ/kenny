@@ -1,0 +1,66 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "better-sqlite3": "^6.0.1",
+    "brawlstars": "^1.2.4",
+    "brawlstars.js": "^1.0.5",
+    "buscador-letra": "^0.0.1",
+    "discord-suggest": "^1.0.1",
+    "discord.js": "^11.5.1",
+    "emoji-img": "^1.0.0",
+    "emoji-unicode-map": "^1.1.10",
+    "express": "^4.17.1",
+    "fortnitetracker-7days-stats": "^3.3.0",
+    "fs": "^0.0.2",
+    "fs-extra": "^8.1.0",
+    "g": "^2.0.1",
+    "gamedig": "^2.0.20",
+    "got": "^10.7.0",
+    "marsnpm": "^0.4.7",
+    "masscalc": "0.0.1",
+    "math-expression-evaluator": "^1.2.22",
+    "mech-aki": "^0.0.4",
+    "megadb": "^3.0.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "mongoose": "^5.9.7",
+    "ms": "^2.1.2",
+    "novelcovid": "^1.1.4",
+    "npm-cache": "^0.7.0",
+    "npm-module-search": "^3.0.0",
+    "parse-ms": "^2.0.0",
+    "pornhub-api": "^0.0.1",
+    "quick.db": "^6.3.2",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "samp-query": "^0.1.5",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^4.0.5",
+    "string-similarity": "^4.0.1",
+    "superagent": "^5.2.2",
+    "weez": "^1.5.7",
+    "discord-giveaways": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

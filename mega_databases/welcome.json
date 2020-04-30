@@ -1,0 +1,22 @@
+{
+  "684571277372948517": {
+    "canal": "685637567340609754",
+    "mensaje": "<:salida:687144188172959747> ¡Hey! bienvenido al servidor {guild}, {user} <a:saludos:685280411026194455> espero que disfrutes del servidor te recomendamos pasarte por <#686563055605252097> y <#685216048357834771> \n\n<a:entro:685296500019953751> Sí quieres añadir a Kenny tu servidor utiliza k!help \n\n<:circle4:686571204852580384> Cantidad de usuarios en el servidor: {members}\nSin nada más que decir <a:welcome2:690333827419472003><a:welcome1:690333861871091712>"
+  },
+  "662827407748628485": {
+    "canal": "663781703797702676",
+    "mensaje": "**Bienvenid@ al {guild} espero que tengas un bonito día que no se te olvide suscribirte a mi canal de YT.. Contigo ya somos {members} **"
+  },
+  "680884125376446469": {
+    "canal": "692469686717251595",
+    "mensaje": "<a:Minecraft2:684499780197417094> Bienvenido {user} a Nuestro Servidor {guild} <a:Real:684499936108216346> Ahora Formas Parte de Nuestra Comunidad, Ahora somos {members} Miembros <a:Campanita:684499679882379420>"
+  },
+  "688363422915756076": {
+    "canal": "688373101322698753",
+    "mensaje": "👤 El Usuario Llamado {user} Se Ha Unido Al Servidor {guild} ✅ Ahora Somos {members}"
+  },
+  "693937968234364931": {
+    "canal": "693938300716580864",
+    "mensaje": "Ha Entrado {user}, Al Server {guild}"
+  }
+}
